@@ -1,0 +1,14 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\bin\Debug\net8.0\04-Teste.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\bin\Debug\net8.0\04-Teste.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\bin\Debug\net8.0\04-Teste.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\bin\Debug\net8.0\04-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\bin\Debug\net8.0\04-Teste.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\refint\04-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\04-Teste.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\04-Teste\obj\Debug\net8.0\ref\04-Teste.dll

@@ -1,0 +1,14 @@
+C:\Sistema\FN\Programação\C#\Ambientacao\bin\Debug\net8.0\Ambientacao.exe
+C:\Sistema\FN\Programação\C#\Ambientacao\bin\Debug\net8.0\Ambientacao.deps.json
+C:\Sistema\FN\Programação\C#\Ambientacao\bin\Debug\net8.0\Ambientacao.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\Ambientacao\bin\Debug\net8.0\Ambientacao.dll
+C:\Sistema\FN\Programação\C#\Ambientacao\bin\Debug\net8.0\Ambientacao.pdb
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.dll
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\refint\Ambientacao.dll
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.pdb
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\Ambientacao.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\Ambientacao\obj\Debug\net8.0\ref\Ambientacao.dll

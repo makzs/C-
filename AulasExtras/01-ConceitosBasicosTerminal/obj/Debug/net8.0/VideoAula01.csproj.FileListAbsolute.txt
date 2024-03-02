@@ -1,0 +1,14 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\refint\VideoAula01.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\bin\Debug\net8.0\VideoAula01.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\bin\Debug\net8.0\VideoAula01.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\bin\Debug\net8.0\VideoAula01.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\bin\Debug\net8.0\VideoAula01.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\bin\Debug\net8.0\VideoAula01.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\VideoAula01.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\VideoAula01\obj\Debug\net8.0\ref\VideoAula01.dll
