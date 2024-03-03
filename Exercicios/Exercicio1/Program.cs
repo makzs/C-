@@ -4,17 +4,17 @@ Escreva um algoritmo que receba a altura e a largura de um retangulo e calcule a
 */
 
 // Variaveis
-float altura, largura, area;
+int area;
 
-Console.WriteLine("Calculadora de Area de Retangulos \n");
+Console.Write("Calculadora de Area de Retangulos \n");
 
 // Pergunta a altura do retangulo
-Console.WriteLine("Informe a altura do retangulo: ");
-altura = float.Parse(Console.ReadLine());
+Console.Write("Informe a altura do retangulo: ");
+int altura = System.Convert.ToInt32(Console.ReadLine());
 
 // Pergunta a largura do retangulo
-Console.WriteLine("Informe a largura do retangulo: ");
-largura = float.Parse(Console.ReadLine());
+Console.Write("Informe a largura do retangulo: ");
+int largura = System.Convert.ToInt32(Console.ReadLine());
 
 // Calcula a area do retangulo
 area = altura * largura;

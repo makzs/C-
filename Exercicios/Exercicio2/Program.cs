@@ -8,20 +8,20 @@ O algoritmo deve receber o valor em real (R$) e apresentar os valores convertido
 */
 
 // Variaveis:
-float valor, dolar, euro, peso;
+double dolar, euro, peso;
 
 // Resolução
 
 // Le o valor em reais. O comando parse é para converter a string no tipo float
 Console.WriteLine("Informe o valor que deseja converter: ");
-valor = float.Parse(Console.ReadLine());
+double valor = System.Convert.ToDouble(Console.ReadLine());
 
 // converte o valor em reais para os respectivos preços
 dolar = valor / 5.17f;
 euro = valor / 6.14f;
 peso = valor / 0.05f;
 
-Console.WriteLine($"O valor R${valor} convertido em ");
-Console.WriteLine($"Dolar: {dolar}");
-Console.WriteLine($"Euro: {euro}");
-Console.WriteLine($"Peso Argentino: {peso}");
+Console.WriteLine($"O valor {valor:c} convertido em ");
+Console.WriteLine($"Dolar: {dolar:c}");
+Console.WriteLine($"Euro: {euro:c}");
+Console.WriteLine($"Peso Argentino: {peso:C}");

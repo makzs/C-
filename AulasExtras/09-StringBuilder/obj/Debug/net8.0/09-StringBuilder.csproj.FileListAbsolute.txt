@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\bin\Debug\net8.0\09-StringBuilder.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\bin\Debug\net8.0\09-StringBuilder.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\bin\Debug\net8.0\09-StringBuilder.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\bin\Debug\net8.0\09-StringBuilder.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\bin\Debug\net8.0\09-StringBuilder.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\refint\09-StringBuilder.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\09-StringBuilder.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\09-StringBuilder\obj\Debug\net8.0\ref\09-StringBuilder.dll

@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\06-Teste\bin\Debug\net8.0\06-Teste.exe
+C:\Sistema\FN\Programação\C#\06-Teste\bin\Debug\net8.0\06-Teste.deps.json
+C:\Sistema\FN\Programação\C#\06-Teste\bin\Debug\net8.0\06-Teste.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\06-Teste\bin\Debug\net8.0\06-Teste.dll
+C:\Sistema\FN\Programação\C#\06-Teste\bin\Debug\net8.0\06-Teste.pdb
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.sourcelink.json
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.dll
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\refint\06-Teste.dll
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.pdb
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\06-Teste.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\06-Teste\obj\Debug\net8.0\ref\06-Teste.dll

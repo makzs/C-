@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\bin\Debug\net8.0\07-WhileBasico.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\bin\Debug\net8.0\07-WhileBasico.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\bin\Debug\net8.0\07-WhileBasico.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\bin\Debug\net8.0\07-WhileBasico.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\bin\Debug\net8.0\07-WhileBasico.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\refint\07-WhileBasico.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\07-WhileBasico.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07-WhileBasico\obj\Debug\net8.0\ref\07-WhileBasico.dll

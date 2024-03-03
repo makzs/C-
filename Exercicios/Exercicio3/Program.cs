@@ -3,16 +3,13 @@ Exercicio 03
 Receber dois numeros inteiros e informar qual valor lido é o menor e qual é o maior.
 */
 
-// Variaveis
-int x, y;
-
 // primeiro valor
 Console.WriteLine("Informe o primeiro valor: ");
-x = int.Parse(Console.ReadLine());
+int x = System.Convert.ToInt32(Console.ReadLine());
 
 // segundo valor
 Console.WriteLine("Informe o segundo valor: ");
-y = int.Parse(Console.ReadLine());
+int y = System.Convert.ToInt32(Console.ReadLine());
 
 // condicionais
 if(x > y){

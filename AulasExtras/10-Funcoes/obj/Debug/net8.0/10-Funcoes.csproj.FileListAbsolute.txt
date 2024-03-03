@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\bin\Debug\net8.0\10-Funcoes.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\bin\Debug\net8.0\10-Funcoes.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\bin\Debug\net8.0\10-Funcoes.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\bin\Debug\net8.0\10-Funcoes.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\bin\Debug\net8.0\10-Funcoes.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\refint\10-Funcoes.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\10-Funcoes.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\10-Funcoes\obj\Debug\net8.0\ref\10-Funcoes.dll

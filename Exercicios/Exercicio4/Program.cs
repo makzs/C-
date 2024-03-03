@@ -6,12 +6,9 @@ se idade > 18 e <= 60: Adulto
 se idade > 60: Idoso.
 */
 
-//variaveis
-int idade;
-
 // Recebe a idade
 Console.WriteLine("Informe a idade: ");
-idade = int.Parse(Console.ReadLine());
+int idade = System.Convert.ToInt32(Console.ReadLine());
 
 // condicionais para verificar qual resposta dar
 if(idade <= 13) {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YXy7XjCd7T1FSI3M1vGCj8lMNDpq6aXnJiCRmSEKaYsi5CmKk6OF7UYSuXkRa9r1GzyKP8Qdt5FdjM1s2j0ujw==",
+  "dgSpecHash": "w79TqOPDDJHAYFIzK90guMt4j4/otS2+7IaxwlHVwb+ego3MGTgqkjDtB6R0xBAv1NjhffJnYBSyleaHvnwlrw==",
   "success": true,
-  "projectFilePath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\04-Teste.csproj",
+  "projectFilePath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\04-Teste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

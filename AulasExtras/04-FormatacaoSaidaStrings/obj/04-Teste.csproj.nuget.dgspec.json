@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\04-Teste.csproj": {}
+    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\04-Teste.csproj": {}
   },
   "projects": {
-    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\04-Teste.csproj": {
+    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\04-Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\04-Teste.csproj",
+        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\04-Teste.csproj",
         "projectName": "04-Teste",
-        "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\04-Teste.csproj",
+        "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\04-Teste.csproj",
         "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-Teste\\obj\\",
+        "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\04-FormatacaoSaidaStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\bin\Debug\net8.0\08-Teste.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\bin\Debug\net8.0\08-Teste.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\bin\Debug\net8.0\08-Teste.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\bin\Debug\net8.0\08-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\bin\Debug\net8.0\08-Teste.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\refint\08-Teste.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\08-Teste.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\08-Teste\obj\Debug\net8.0\ref\08-Teste.dll

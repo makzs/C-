@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\Exercicio2\\Exercicio1.csproj",
+      "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\Exercicios\\Exercicio2\\Exercicio1.csproj",
       "projectName": "Exercicio1",
-      "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\Exercicio2\\Exercicio1.csproj",
+      "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\Exercicios\\Exercicio2\\Exercicio1.csproj",
       "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-      "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\Exercicio2\\obj\\",
+      "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\Exercicios\\Exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config"

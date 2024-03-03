@@ -15,7 +15,7 @@ namespace ConsoleApp1{
             Console.Clear();
 
             // write  diferente do write line, ele aceita o input ser na mesma linha
-            Console.WriteLine("What is your name? ");
+            Console.Write("What is your name? ");
             // input para receber a variavel string nome
             string nome = Console.ReadLine();
             // escreve no terminal a mensagem com a variavel no meio

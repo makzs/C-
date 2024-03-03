@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Teste\\05-Teste.csproj": {}
+    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Arrays\\05-Teste.csproj": {}
   },
   "projects": {
-    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Teste\\05-Teste.csproj": {
+    "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Arrays\\05-Teste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Teste\\05-Teste.csproj",
+        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Arrays\\05-Teste.csproj",
         "projectName": "05-Teste",
-        "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Teste\\05-Teste.csproj",
+        "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Arrays\\05-Teste.csproj",
         "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Teste\\obj\\",
+        "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\AulasExtras\\05-Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config"
