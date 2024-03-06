@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\bin\Debug\net8.0\12-ClassesObjetos.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\bin\Debug\net8.0\12-ClassesObjetos.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\bin\Debug\net8.0\12-ClassesObjetos.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\bin\Debug\net8.0\12-ClassesObjetos.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\bin\Debug\net8.0\12-ClassesObjetos.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\refint\12-ClassesObjetos.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\12-ClassesObjetos.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\12-ClassesObjetos\obj\Debug\net8.0\ref\12-ClassesObjetos.dll
