@@ -5,7 +5,7 @@
 
 class Animal
 {
-    // define qual vai ser os parametros da classe animal
+    // define as propriedades (variaveis em objetos) da classe animal
     public string name;
     public string sound;
     static int numOfAnimals = 0;

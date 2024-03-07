@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\bin\Debug\net8.0\Exercicio06A.exe
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\bin\Debug\net8.0\Exercicio06A.deps.json
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\bin\Debug\net8.0\Exercicio06A.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\bin\Debug\net8.0\Exercicio06A.dll
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\bin\Debug\net8.0\Exercicio06A.pdb
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.sourcelink.json
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.dll
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\refint\Exercicio06A.dll
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.pdb
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\Exercicio06A.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\Aulas\Aula01\Exercicio06\Exercicio06A\obj\Debug\net8.0\ref\Exercicio06A.dll

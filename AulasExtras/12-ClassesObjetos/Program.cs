@@ -20,7 +20,7 @@ namespace _12_ClassesObjetos{
             rect1.length = 33;
             Console.WriteLine("Rect2.length : {0}", rect2.length);
 
-        // utiliza a classe Animal
+        // instancia um objeto da classe Animal
         Animal raposa = new Animal()
         {
             name = "Red",
