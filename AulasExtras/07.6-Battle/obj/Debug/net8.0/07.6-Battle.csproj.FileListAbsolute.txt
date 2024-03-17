@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\bin\Debug\net8.0\07.6-Battle.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\bin\Debug\net8.0\07.6-Battle.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\bin\Debug\net8.0\07.6-Battle.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\bin\Debug\net8.0\07.6-Battle.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\bin\Debug\net8.0\07.6-Battle.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\refint\07.6-Battle.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\07.6-Battle.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.6-Battle\obj\Debug\net8.0\ref\07.6-Battle.dll

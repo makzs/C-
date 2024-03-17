@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\bin\Debug\net8.0\07.5-FizzBuzz.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\bin\Debug\net8.0\07.5-FizzBuzz.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\bin\Debug\net8.0\07.5-FizzBuzz.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\bin\Debug\net8.0\07.5-FizzBuzz.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\bin\Debug\net8.0\07.5-FizzBuzz.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\refint\07.5-FizzBuzz.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\07.5-FizzBuzz.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\07.5-FizzBuzz\obj\Debug\net8.0\ref\07.5-FizzBuzz.dll

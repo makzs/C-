@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj": {}
+    "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj": {}
   },
   "projects": {
-    "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj": {
+    "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
+        "projectUniqueName": "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
         "projectName": "Exemplo01-ArrayStructures",
-        "projectPath": "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
+        "projectPath": "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
         "packagesPath": "C:\\Users\\erikm\\.nuget\\packages\\",
-        "outputPath": "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\obj\\",
+        "outputPath": "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erikm\\AppData\\Roaming\\NuGet\\NuGet.Config",

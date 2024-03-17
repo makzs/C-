@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2S5561H8joClVX3epAt9aIOd7K4HNJJE85DoDijMaBUrH2WdoOem5OzOJ/ZySqf4BQl+toYyZ+aUPq6DrDbtXw==",
+  "dgSpecHash": "TUwlqn06vQ0EfzSnEYPOKw5DyMMTbwZbew0mI1wtAvvEkudSkJvcn9/vH8lWlaDDQA3tPWeS23B4BOlQOaGx6g==",
   "success": true,
-  "projectFilePath": "C:\\Sistema\\FN\\Programação\\Testes\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
+  "projectFilePath": "C:\\Sistema\\FN\\Programação\\C#\\FreeCodeCamp\\Exemplo01-ArrayStructures\\Exemplo01-ArrayStructures.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

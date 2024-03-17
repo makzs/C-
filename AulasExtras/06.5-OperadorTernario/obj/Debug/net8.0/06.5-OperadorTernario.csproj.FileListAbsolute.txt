@@ -1,0 +1,15 @@
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\bin\Debug\net8.0\06.5-OperadorTernario.exe
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\bin\Debug\net8.0\06.5-OperadorTernario.deps.json
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\bin\Debug\net8.0\06.5-OperadorTernario.runtimeconfig.json
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\bin\Debug\net8.0\06.5-OperadorTernario.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\bin\Debug\net8.0\06.5-OperadorTernario.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.AssemblyInfo.cs
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.sourcelink.json
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\refint\06.5-OperadorTernario.dll
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.pdb
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\06.5-OperadorTernario.genruntimeconfig.cache
+C:\Sistema\FN\Programação\C#\AulasExtras\06.5-OperadorTernario\obj\Debug\net8.0\ref\06.5-OperadorTernario.dll

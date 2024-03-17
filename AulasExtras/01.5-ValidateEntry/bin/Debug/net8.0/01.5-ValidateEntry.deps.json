@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "01.5-ValidateEntry/1.0.0": {
+        "runtime": {
+          "01.5-ValidateEntry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01.5-ValidateEntry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
