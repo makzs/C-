@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exemplo01-ArrayStructures/1.0.0": {
+        "runtime": {
+          "Exemplo01-ArrayStructures.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo01-ArrayStructures/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

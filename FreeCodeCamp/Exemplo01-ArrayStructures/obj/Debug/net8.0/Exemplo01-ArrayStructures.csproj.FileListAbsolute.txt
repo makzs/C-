@@ -1,0 +1,14 @@
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\bin\Debug\net8.0\Exemplo01-ArrayStructures.exe
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\bin\Debug\net8.0\Exemplo01-ArrayStructures.deps.json
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\bin\Debug\net8.0\Exemplo01-ArrayStructures.runtimeconfig.json
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\bin\Debug\net8.0\Exemplo01-ArrayStructures.dll
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\bin\Debug\net8.0\Exemplo01-ArrayStructures.pdb
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.AssemblyInfoInputs.cache
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.AssemblyInfo.cs
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.csproj.CoreCompileInputs.cache
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.dll
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\refint\Exemplo01-ArrayStructures.dll
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.pdb
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\Exemplo01-ArrayStructures.genruntimeconfig.cache
+C:\Sistema\FN\Programação\Testes\FreeCodeCamp\Exemplo01-ArrayStructures\obj\Debug\net8.0\ref\Exemplo01-ArrayStructures.dll
